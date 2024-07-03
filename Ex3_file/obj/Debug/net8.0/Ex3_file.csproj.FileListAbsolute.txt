@@ -1,0 +1,14 @@
+C:\Users\Dang Dat\source\repos\Ex3_file\bin\Debug\net8.0\Ex3_file.exe
+C:\Users\Dang Dat\source\repos\Ex3_file\bin\Debug\net8.0\Ex3_file.deps.json
+C:\Users\Dang Dat\source\repos\Ex3_file\bin\Debug\net8.0\Ex3_file.runtimeconfig.json
+C:\Users\Dang Dat\source\repos\Ex3_file\bin\Debug\net8.0\Ex3_file.dll
+C:\Users\Dang Dat\source\repos\Ex3_file\bin\Debug\net8.0\Ex3_file.pdb
+C:\Users\Dang Dat\source\repos\Ex3_file\obj\Debug\net8.0\Ex3_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Dat\source\repos\Ex3_file\obj\Debug\net8.0\Ex3_file.AssemblyInfoInputs.cache
+C:\Users\Dang Dat\source\repos\Ex3_file\obj\Debug\net8.0\Ex3_file.AssemblyInfo.cs
+C:\Users\Dang Dat\source\repos\Ex3_file\obj\Debug\net8.0\Ex3_file.csproj.CoreCompileInputs.cache
+C:\Users\Dang Dat\source\repos\Ex3_file\obj\Debug\net8.0\Ex3_file.dll
+C:\Users\Dang Dat\source\repos\Ex3_file\obj\Debug\net8.0\refint\Ex3_file.dll
+C:\Users\Dang Dat\source\repos\Ex3_file\obj\Debug\net8.0\Ex3_file.pdb
+C:\Users\Dang Dat\source\repos\Ex3_file\obj\Debug\net8.0\Ex3_file.genruntimeconfig.cache
+C:\Users\Dang Dat\source\repos\Ex3_file\obj\Debug\net8.0\ref\Ex3_file.dll
