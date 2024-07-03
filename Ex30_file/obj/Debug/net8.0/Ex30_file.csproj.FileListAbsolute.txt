@@ -1,0 +1,14 @@
+C:\Users\Dang Dat\source\repos\Ex30_file\bin\Debug\net8.0\Ex30_file.exe
+C:\Users\Dang Dat\source\repos\Ex30_file\bin\Debug\net8.0\Ex30_file.deps.json
+C:\Users\Dang Dat\source\repos\Ex30_file\bin\Debug\net8.0\Ex30_file.runtimeconfig.json
+C:\Users\Dang Dat\source\repos\Ex30_file\bin\Debug\net8.0\Ex30_file.dll
+C:\Users\Dang Dat\source\repos\Ex30_file\bin\Debug\net8.0\Ex30_file.pdb
+C:\Users\Dang Dat\source\repos\Ex30_file\obj\Debug\net8.0\Ex30_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Dat\source\repos\Ex30_file\obj\Debug\net8.0\Ex30_file.AssemblyInfoInputs.cache
+C:\Users\Dang Dat\source\repos\Ex30_file\obj\Debug\net8.0\Ex30_file.AssemblyInfo.cs
+C:\Users\Dang Dat\source\repos\Ex30_file\obj\Debug\net8.0\Ex30_file.csproj.CoreCompileInputs.cache
+C:\Users\Dang Dat\source\repos\Ex30_file\obj\Debug\net8.0\Ex30_file.dll
+C:\Users\Dang Dat\source\repos\Ex30_file\obj\Debug\net8.0\refint\Ex30_file.dll
+C:\Users\Dang Dat\source\repos\Ex30_file\obj\Debug\net8.0\Ex30_file.pdb
+C:\Users\Dang Dat\source\repos\Ex30_file\obj\Debug\net8.0\Ex30_file.genruntimeconfig.cache
+C:\Users\Dang Dat\source\repos\Ex30_file\obj\Debug\net8.0\ref\Ex30_file.dll
